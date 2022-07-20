@@ -1,0 +1,20 @@
+{
+  "name": "attendance-management-system",
+  "version": "1.0.0",
+  "description": "Intern Project for Eziline Software house. Created by Muhammad Umer Pall",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
